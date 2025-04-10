@@ -57,12 +57,53 @@ A bar chart showing the distribution of BMI categories in the dataset.
 
 ---
 
-## 🧠 What I Learned
+## 💡 What I Learned
 
 - How to prepare and explore structured health datasets  
 - How to spot and handle outliers in continuous variables  
 - How to model health categories based on lifestyle metrics  
 - How to present technical results through visual storytelling
+
+---
+
+## ▶️ How to Run the Project
+
+### 1. Requirements
+
+- **R** (version 4.2 or higher)
+- Install required packages:
+  ```r
+  install.packages(c("dplyr", "ggplot2", "caret", "rpart"))
+
+### 2. Running in RStudio
+
+- **R** (version 4.2 or higher)
+- Open
+  ```r
+  sleep_health_insights.R
+  
+- Make sure the dataset is located at:
+  ```r
+  data/sleep_fitness_internal_dataset.csv
+- Click **"Source"** or **Run** the script step by step
+- Visuals will be saved to the **visuals/** folder
+- ✨ Model accuracy and outputs will appear in the console
+
+### 3. Running in Visual Studio Code
+
+- Open the project folder in **VS Code**
+- Use an **R extension**
+- Open the integrated terminal and run:
+  ```r
+  R
+  source("sleep_health_insights.R")
+  
+
+---
+
+## ⏭ Next Step
+
+- Build a dashboard with Power BI  
 
 ---
 
