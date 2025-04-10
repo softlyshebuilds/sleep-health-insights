@@ -35,6 +35,14 @@ The goal was to uncover patterns and correlations through a structured analytica
 
 ---
 
+## 💡 Sample Visualization
+
+A bar chart showing the distribution of BMI categories in the dataset.
+
+![BMI Category Distribution](visuals/bmi_distribution.png)
+
+---
+
 ## 🌟 Highlights
 
 - Built a clean and structured analytical pipeline  
