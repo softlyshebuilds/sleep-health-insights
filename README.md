@@ -6,16 +6,18 @@ Analyzing sleep and lifestyle patterns to extract meaningful health insights usi
 
 ## 📌 Project Overview
 
-Inspired by health tech use cases like Fitbit, this project explores the relationships between sleep quality, lifestyle habits, and health outcomes using a public dataset.  
-The goal was to uncover patterns and correlations through a structured analytical process using R.
+Conducted during an internal internship project, this analysis draws inspiration from real-world health tech use cases (such as Fitbit).  
+The goal was to explore the relationships between sleep quality, lifestyle habits, and health outcomes through a structured analytical process using R.
+
+The data used for this project is confidential and cannot be publicly shared.
 
 ---
 
 ## 📌 Objectives
 
-- 🗂️ Clean and prepare raw data for analysis  
-- 📊 Visualize sleep and lifestyle variables using `ggplot2`  
-- 📈 Perform correlation analysis (stress, sleep, activity, BMI)  
+- 🗂️ Clean and prepare real-world health & lifestyle data  
+- 📊 Visualize sleep and activity variables using `ggplot2`  
+- 📈 Perform correlation and distribution analysis (sleep, stress, activity, BMI)  
 - 📝 Deliver insights in a clear, structured report
 
 ---
@@ -23,15 +25,18 @@ The goal was to uncover patterns and correlations through a structured analytica
 ## 📌 Tools & Skills
 
 - **Languages**: R  
-- **Libraries**: `dplyr`, `ggplot2`, `tidyr`  
-- **Skills**: Data cleaning · Exploratory data analysis · Data storytelling · Visual strategy
+- **Libraries**: `dplyr`, `ggplot2`, `caret`, `rpart`  
+- **Skills**: Data cleaning · Exploratory data analysis · Classification modeling · Data storytelling
 
 ---
 
 ## 📂 Project Files
 
-- `olap_and_data_warehousing.R` — R script for data prep, outlier detection & BMI classification  
-- `Report_DataWarehousing.pdf` — final report including methodology, visuals, and key insights
+- `sleep_health_insights.R` — R script for data preparation, outlier detection, visualization & classification  
+- `Sleep_Health_Insights_SheilaHoumey.pdf` — Final report including methodology, visualizations, and insights  
+- `visuals/` — Contains the BMI category distribution plot  
+
+> 📁 Note: The dataset used in this project is private and is **not included** in the repository.
 
 ---
 
@@ -45,21 +50,24 @@ A bar chart showing the distribution of BMI categories in the dataset.
 
 ## 🌟 Highlights
 
-- Built a clean and structured analytical pipeline  
-- Identified data-driven links between sleep and lifestyle  
-- Produced a visually clear and insightful final report
+- Built a clean, reproducible data science pipeline using R  
+- Applied decision tree modeling to predict BMI categories  
+- Generated clear visual narratives & interpreted real health indicators  
+- Delivered a bilingual report (EN/FR) with structured insights
 
 ---
 
-## 💡 What I Learned
+## 🧠 What I Learned
 
-- How to clean and prepare real-world health data using R  
-- How to explore correlations between lifestyle factors and health outcomes  
-- The importance of storytelling and visual clarity when communicating data-driven insights
+- How to prepare and explore structured health datasets  
+- How to spot and handle outliers in continuous variables  
+- How to model health categories based on lifestyle metrics  
+- How to present technical results through visual storytelling
 
 ---
 
-## 👩🏽‍💻 Contact
+## 👩🏽‍💻 Author
 
 Sheila Houmey  
-[LinkedIn](https://linkedin.com/in/sheila-houmey) · GitHub: `@softlyshebuilds`
+[LinkedIn](https://www.linkedin.com/in/sheila-houmey) · GitHub: [`@softlyshebuilds`](https://github.com/softlyshebuilds)
+

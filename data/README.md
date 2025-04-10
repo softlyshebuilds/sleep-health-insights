@@ -1,14 +1,14 @@
-# 📊 Dataset Information
+# 🔐 Dataset Information
 
-This dataset comes from the **Sleep Health and Lifestyle Dataset**, publicly available on Kaggle:
+This dataset was provided in the context of an internal internship project in collaboration with a professional in the health tech field.  
+It contains anonymized records related to sleep, activity, and health indicators.
 
-🔗 [View on Kaggle](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
+Due to confidentiality constraints, the raw data is not publicly available.
 
 ---
 
-## 📌 Note
+## ⚠️ Note
 
-The original dataset is not hosted in this repository.  
-Please download it directly from Kaggle to replicate the project.
+The dataset file has been renamed for clarity and does **not** originate from any open-source platform.
 
-© Original dataset by [Kaggle user uom190346a](https://www.kaggle.com/uom190346a)
+If you are reviewing this project and wish to learn more, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sheila-houmey).
